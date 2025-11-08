@@ -1,0 +1,20 @@
+PRECIOS FREE (15 productos)
+==================================================
+Coto       | Aceite Cocinero 900ml                    | $1,890
+Día        | Aceite Las Margaritas 900ml              | $1,790
+Carrefour  | Aceite Natura 900ml                      | $1,850
+Día        | Arroz Día 1kg                            | $1,290
+Carrefour  | Arroz Gallo Oro 1kg                      | $1,450
+Coto       | Arroz Lucchetti 1kg                      | $1,480
+Día        | Agua Día 1.5L                            | $690
+Carrefour  | Agua Eco de los Andes 1.5L               | $850
+Coto       | Agua Mineral Villavicencio 1.5L          | $890
+Carrefour  | Cerveza Brahma 1L                        | $1,690
+Día        | Cerveza Imperial 1L                      | $1,490
+Coto       | Cerveza Quilmes 1L                       | $1,790
+Coto       | Gaseosa Coca Cola 1.5L                   | $1,590
+Día        | Gaseosa Manaos 1.5L                      | $990
+Carrefour  | Gaseosa Pepsi 1.5L                       | $1,490
+
+PREMIUM: 150 productos + PDF + Excel → $1499/mes
+@PreciosArBot
